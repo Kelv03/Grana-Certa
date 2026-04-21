@@ -1,0 +1,12 @@
+[
+  {
+    "name": "iPhone 16 128GB",
+    "url": "https://example.com/produto-iphone-16",
+    "target_price": 6300
+  },
+  {
+    "name": "Galaxy S24 FE 256GB",
+    "url": "https://example.com/produto-s24-fe",
+    "target_price": 3300
+  }
+]
